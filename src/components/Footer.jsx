@@ -26,13 +26,13 @@ const Footer = () => {
           </Text>
         </VStack>
 
-        {/* <HStack>
+        <HStack>
           <Image boxSize={"28"} mt={["4", "0"]} borderRadius={"50%"} src={vg} />
           <Image boxSize={"28"} mt={["4", "0"]} borderRadius={"50%"} src={vg} />
           <Image boxSize={"28"} mt={["4", "0"]} borderRadius={"50%"} src={vg} />
 
           <Text color={'blackAlpha.900'}>Our Founder</Text>
-        </HStack> */}
+        </HStack>
       </Stack>
     </Box>
   );
